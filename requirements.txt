@@ -6,6 +6,7 @@ Unidecode==0.04.17
 blinker==1.3
 docutils==0.12
 feedgenerator==1.7
+ghp-import==0.4.1
 mdx-video==0.1.7.5
 pelican==3.5.0
 pelican-youtube==0.1.0
