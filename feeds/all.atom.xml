@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DomoHack</title><link href="http://domohack.org/" rel="alternate"></link><link href="http://domohack.org/feeds/all.atom.xml" rel="self"></link><id>http://domohack.org/</id><updated>2016-04-18T00:00:00+02:00</updated><entry><title>DomoHack ?</title><link href="http://domohack.org/domohack.html" rel="alternate"></link><updated>2016-04-18T00:00:00+02:00</updated><author><name>cbrun</name></author><id>tag:domohack.org,2016-04-18:domohack.html</id><summary type="html">&lt;p&gt;DomoHack est vraiment né au Fhacktory du printemps 2015 : &lt;a class="reference external" href="https://storify.com/fhacktory/fhacktory-lyon-sprint-2015?utm_medium=sfy.co-twitter&amp;amp;utm_campaign=&amp;amp;utm_source=t.co&amp;amp;awesm=sfy.co_j0VPJ&amp;amp;utm_content=storify-pingback"&gt;Fhacktory::Lyon, Sprint 2015&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lors de ce Fhacktory, nous avons posé les bases de notre architecture :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;un core en python, flask sur un rasberry pi équipé d'un dongle ZWave&lt;/li&gt;
+&lt;li&gt;un robot arduino avec un lecteur RFID, un sonar ultra-son et un servo&lt;/li&gt;
+&lt;li&gt;un frontal web en backbone.js&lt;/li&gt;
+&lt;li&gt;une application mobile sous cordova&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bon en 24h, c'est un proto.&lt;/p&gt;
+&lt;p&gt;Une démo ici :&lt;/p&gt;
+&lt;div class="youtube" align="left"&gt;&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/5lkc-SKBUdM" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="domotique"></category><category term="arduino"></category><category term="backbone"></category><category term="python"></category><category term="flask"></category><category term="fhacktory"></category></entry></feed>
